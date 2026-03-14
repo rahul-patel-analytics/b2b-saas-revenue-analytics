@@ -55,6 +55,12 @@ The objective is to evaluate how leads move through the funnel and identify key 
 
 ---
 
+## Power BI Dashboard
+
+This dashboard visualizes key SaaS revenue and funnel metrics.
+
+![Dashboard](powerbi-dashboard.png)
+
 ##  About Me
 
 I transitioned from B2B SaaS Sales into Revenue & Business Analytics.  
