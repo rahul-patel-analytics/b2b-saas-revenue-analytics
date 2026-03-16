@@ -57,7 +57,14 @@ The objective is to evaluate how leads move through the funnel and identify key 
 
 ## Power BI Dashboard
 
-This dashboard visualizes key SaaS revenue and funnel metrics.
+This dashboard visualizes key SaaS revenue and funnel metrics including:
+
+- Total Revenue
+- Total Deals
+- Win Rate
+- Revenue by Sales Representative
+- Revenue by Lead Source
+- Deals by Stage
 
 ![Dashboard](powerbi-dashboard.png)
 
